@@ -1,8 +1,12 @@
 {
-  "main.css": "static/css/main.5c2b6b9a.css",
-  "main.css.map": "static/css/main.5c2b6b9a.css.map",
-  "main.js": "static/js/main.90290db3.js",
-  "main.js.map": "static/js/main.90290db3.js.map",
+  "main.css": "static/css/main.9b47ef17.css",
+  "main.css.map": "static/css/main.9b47ef17.css.map",
+  "main.js": "static/js/main.ac804b22.js",
+  "main.js.map": "static/js/main.ac804b22.js.map",
+  "static/media/colorhexa-logo.png": "static/media/colorhexa-logo.5eb6e2a3.png",
+  "static/media/coolors-logo.png": "static/media/coolors-logo.d8e8afe2.png",
+  "static/media/duotone-logo.jpg": "static/media/duotone-logo.f4aff196.jpg",
   "static/media/feather-sprite.svg": "static/media/feather-sprite.0ed672ce.svg",
-  "static/media/jam-sprite.svg": "static/media/jam-sprite.ea484166.svg"
+  "static/media/jam-sprite.svg": "static/media/jam-sprite.ea484166.svg",
+  "static/media/pexels-logo.png": "static/media/pexels-logo.55fce10b.png"
 }
